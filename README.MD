@@ -182,13 +182,13 @@ Validates that the AWS CLI is configured with credentials.
     ```
 
 ## Images Below:
-![AWS IAM Manager](capstone_1.png)
+![AWS IAM Manager-1](capstone_1.png)
 
-![AWS IAM Manager](capstone_2.png)
+![AWS IAM Manager-2](capstone_2.png)
 
-![AWS IAM Manager](capstone_3.png)
+![AWS IAM Manager-3](capstone_3.png)
 
-![AWS IAM Manager](script_execution_output.png)
+![AWS IAM Manager-Script Output](script_execution_output.png)
 
 ## Key Learnings
 - Mastered AWS CLI commands for IAM management.
